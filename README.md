@@ -39,7 +39,7 @@ The processed dataset was then used to build the Power BI dashboard.
 
 ## Dashboard Preview
 
-![Dashboard Overview](visuals/E-commerceAnalysisDashboard_page1.png)
+![Dashboard Overview](visuals/E-commerceAnalysisDashboard_page1.jpg)
 
 ---
 
